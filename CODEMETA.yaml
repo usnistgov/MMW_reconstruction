@@ -33,16 +33,16 @@ categories:
   # - performance-and-workflow
   - scientific-software
   # - simulation
-  # - tools
+  - tools
   # - visualization
 
 themes:
   - Information Technology
     - Data and informatics
-  # - Advanced communications
+  - Advanced communications
   #     - Optical communications
   #     - Quantum communications
-  #     - Wireless (RF)
+      - Wireless (RF)
   #
   # - Bioscience
   #     - Biomaterials
@@ -76,14 +76,14 @@ themes:
   #     - Theoretical chemistry and modeling
   #     - Thermochemical properties
   #
-  # - Electronics
+  - Electronics
   #     - Electromagnetics
   #     - Flexible electronics
   #     - Magnetoelectronics
   #     - Optoelectronics
   #     - Organic electronics
   #     - Semiconductors
-  #     - Sensors
+      - Sensors
   #     - Superconducting electronics
   #
   # - Energy
@@ -311,7 +311,7 @@ themes:
   #     - Reference materials
   #     - Standards education
   #
-  # - Transportation
-  #     - Aerospace
+  - Transportation
+      - Aerospace
   #     - Automotive
   #     - Rail
