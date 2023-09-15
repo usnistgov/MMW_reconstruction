@@ -28,7 +28,7 @@ For example, the spatial resolution of the image can be controlled by adjusting 
 
 [2] https://www.kaggle.com/competitions/passenger-screening-algorithm-challenge
 
-[3] Sheen, D. M., Fernandes, J. L., Tedeschi, J. R., McMakin, D. L., Jones, A. M., Lechelt, W. M., & Severtsen, R. H. (2013, May). Wide-bandwidth, wide-beamwidth, high-resolution, millimeter-wave imaging for concealed weapon detection. In Passive and Active Millimeter-Wave Imaging XVI (Vol. 8715, pp. 65-75). SPIE.
+[3] Sheen, D., McMakin, D., & Hall, T. (2010). Near-field three-dimensional radar imaging techniques and applications. Applied Optics, 49(19), E83-E93.
 
 [4] Soumekh, M. (1994). Fourier array imaging. Prentice-Hall, Inc..
 
